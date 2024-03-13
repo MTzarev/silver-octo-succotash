@@ -13,6 +13,4 @@ function asciiSumator(input) {
     }
     console.log(sum);
 }
-asciiSumator(['@',
-    '1',
-    'dsg12gr5653feee5'])
+asciiSumator(['@','1','dsg12gr5653feee5'])
